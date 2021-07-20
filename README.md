@@ -2,4 +2,4 @@
 
 
 Client side form validation
-Using html, css and JavaScript
+Using HTML, CSS and JavaScript
